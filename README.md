@@ -25,6 +25,6 @@ Linux, Python, Nmap, Burp Suite, Wireshark, Git, VS Code
 
 | Project | Description | Status |
 |---|---|---|
-| security-writeups | Notes and learnings from labs and wargames | Ongoing |
-| password-checker | Python tool that rates password strength | Planned |
-| cyber-risk-check | Simple tool for a basic cyber risk assessment | Planned |
+| [security-writeups](https://github.com/DEIN-USERNAME/security-writeups) | Notes and learnings from labs and wargames | Ongoing |
+| [password-checker](https://github.com/DEIN-USERNAME/password-checker) | Python tool that rates password strength | Planned |
+| [cyber-risk-check](https://github.com/DEIN-USERNAME/cyber-risk-check) | Simple tool for a basic cyber risk assessment | Planned |
